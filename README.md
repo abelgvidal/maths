@@ -3,7 +3,7 @@
 ### Pre-algebra
 
 - The Art of Problem Solving: Volumes 1 and 2  
-    - Nov 26 2023: 1.5.10
+    - Nov 26 2023: 1.63
 - Dolciani. *Pre-Algebra: An Accelerated Course* [1987](https://smile.amazon.com/dp/039543050X)
 
 
