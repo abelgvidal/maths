@@ -1,18 +1,13 @@
 # MATHS
 
-## Grade school maths
-
-See below for more information about these.
-
-- The Art of Problem Solving ([At AoPS](https://artofproblemsolving.com/store/item/intro-geometry))
-- OpenStax
-- Japanese Mathematics (translations from University of Chicago)
-  <http://ucsmp.uchicago.edu/resources/translations/>
-
 ### Pre-algebra
 
-- The Art of Problem Solving: Volumes 1 and 2
+- The Art of Problem Solving: Volumes 1 and 2  
+    - Nov 26 2023: 1.5.10
 - Dolciani. *Pre-Algebra: An Accelerated Course* [1987](https://smile.amazon.com/dp/039543050X)
+
+
+
 
 ### Introductory algebra
 
