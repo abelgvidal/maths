@@ -45,6 +45,7 @@ Encompassing the portion of the US curriculum referred to by the terms Algebra 2
 
 - https://www.3blue1brown.com/topics/linear-algebra
 - https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/readings/#Table_of_Contents
+- https://www.youtube.com/@TheOrganicChemistryTutor
 - Stillwell. *The Four Pillars of Geometry* (1e 2005: ISBN 978-0387255309, [Worldcat](https://www.worldcat.org/oclc/209834142), [Amazon](https://smile.amazon.com/dp/0387255303))
 - Leonard, Lewis, Liu, Tokarsky. *Classical Geometry: Euclidean, Transformational, Inversive, and Projective*
   (1e 1997: [ISBN 978-0760706602](https://www.worldcat.org/isbn/978-0760706602),
